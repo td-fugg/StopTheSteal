@@ -1,6 +1,3 @@
-# StopTheSteal
-*Highlighting abnormal voting patterns of the 2020 Presidential Election*
-
 ### Michigan ###
 Saginaw County vote count progresses in a non-organic fashion compared to other similar-sized county populations.
 Based on Michigan' voter roll and census information, Saginaw County has 153,684 registered voters with 36,829 registered as permanent absentee.  St. Clair County has 130,961 registered voters with 36,013 registered as permanent absentee.

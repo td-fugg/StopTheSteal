@@ -1,7 +1,7 @@
-## StopTheSteal ## :ballot_box_with_check: 
+## StopTheSteal :ballot_box_with_check: 
 *Highlighting abnormal voting patterns of the 2020 Presidential Election*
 
-[Home](https://github.com/td-fugg/StopTheSteal) | [Georgia](https://github.com/td-fugg/StopTheSteal/Georgia) | [Florida](https://github.com/td-fugg/StopTheSteal/Florida) | [Michigan](https://github.com/td-fugg/StopTheSteal/Michigan) | [Pennsylvania](https://github.com/td-fugg/StopTheSteal/Pennsylvania) | [Wisconsin](https://github.com/td-fugg/StopTheSteal/Wisconsin)
+[Home](https://github.com/td-fugg/StopTheSteal) | [Georgia](https://github.com/td-fugg/StopTheSteal/tree/master/Georgia) | [Florida](https://github.com/td-fugg/StopTheSteal/tree/master/Florida) | [Michigan](https://github.com/td-fugg/StopTheSteal/tree/master/Michigan) | [Pennsylvania](https://github.com/td-fugg/StopTheSteal/tree/master/Pennsylvania) | [Wisconsin](https://github.com/td-fugg/StopTheSteal/tree/master/Wisconsin)
 
 ### Michigan ###
 The precinct data for Michigan includes census data and voter roll information. Links to the sources are below :

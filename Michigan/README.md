@@ -1,4 +1,4 @@
-[Home](https://github.com/td-fugg/StopTheSteal) | [Georgia](https://github.com/td-fugg/StopTheSteal/Georgia) | [Florida](https://github.com/td-fugg/StopTheSteal/Florida) | [Michigan](https://github.com/td-fugg/StopTheSteal/Michigan) | [Pennsylvania](https://github.com/td-fugg/StopTheSteal/Pennsylvania) | [Wisconsin](https://github.com/td-fugg/StopTheSteal/Wisconsin)
+[Home](https://github.com/td-fugg/StopTheSteal) | [Georgia](https://github.com/td-fugg/StopTheSteal/tree/master/Georgia) | [Florida](https://github.com/td-fugg/StopTheSteal/tree/master/Florida) | [Michigan](https://github.com/td-fugg/StopTheSteal/tree/master/Michigan) | [Pennsylvania](https://github.com/td-fugg/StopTheSteal/tree/master/Pennsylvania) | [Wisconsin](https://github.com/td-fugg/StopTheSteal/tree/master/Wisconsin)
 
 ### Michigan ###
 Saginaw County vote count progresses in a non-organic fashion compared to other similar-sized county populations.
